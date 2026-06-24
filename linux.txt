@@ -1,0 +1,6 @@
+Linux Basics:
+ls - list files
+cd - change directory
+pwd - current directory
+mkdir - create directory
+rm - remove file

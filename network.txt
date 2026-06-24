@@ -1,0 +1,9 @@
+Networking Basics
+
+IP Address - Identifies a device on a network.
+DNS - Converts domain names to IP addresses.
+HTTP - Protocol for web communication.
+HTTPS - Secure version of HTTP.
+Port 80 - HTTP
+Port 443 - HTTPS
+Port 22 - SSH
